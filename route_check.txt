@@ -1,0 +1,8 @@
+﻿Rol class: Spatie\Permission\Models\Role
+Rol id: 3
+Rol getRouteKeyName: id
+Rol getRouteKey: 3
+Route parameterNames: ["role"]
+URL OK: http://localhost/roles/3
+URL con key explicita OK: http://localhost/roles/3
+URL con id explicito OK: http://localhost/roles/3

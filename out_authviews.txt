@@ -1,0 +1,12 @@
+﻿
+Name              
+----              
+passwords         
+login.blade.php   
+register.blade.php
+verify.blade.php  
+confirm.blade.php 
+email.blade.php   
+reset.blade.php   
+
+
